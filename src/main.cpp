@@ -12,7 +12,7 @@ const char* ssid = "Lukrasta";
 const char* password = "Cycy12345";
 
 // -------- Flask server endpoint --------
-String serverURL = "http://192.168.1.56:5000/api/dht22";
+String serverURL = "http://192.168.100.11:5000/api/dht22";
 
 // -------- OLED settings --------
 #define SCREEN_WIDTH 128
